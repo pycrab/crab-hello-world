@@ -1,0 +1,15 @@
+# 从上往下依次匹配, 更新该文件后保存(或者refresh提交列表)可以立即生效
+
+# 排除项目及其子目录下的target
+target/
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.settings
+.classpath
