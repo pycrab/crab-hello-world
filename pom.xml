@@ -10,6 +10,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<modules>
 		<module>hello-algorithm</module>
+		<module>hello-maven</module>
 	</modules>
 
 	<name>crab-hello-world</name>
